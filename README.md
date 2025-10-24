@@ -25,4 +25,4 @@ A spring-boot CRUD API with maven setup. Added Basic auth settings to the projec
 
 
 
-Added Integration Tests
+Added Integration Tests.
